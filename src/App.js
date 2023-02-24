@@ -35,7 +35,7 @@ function App() {
             className={`${error ? "error" : null}`}
           />
           <button className="btn" type="submit">
-            submit
+            get colors
           </button>
         </form>
       </section>
